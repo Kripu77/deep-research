@@ -1,1 +1,1 @@
-# deep-research
+# Deep Research Assistant 
